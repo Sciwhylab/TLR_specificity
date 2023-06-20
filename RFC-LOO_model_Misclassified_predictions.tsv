@@ -1,8 +1,0 @@
-	Ensembl_id	Gene_name	Species	True_class	Predicted_class
-0	ENSDARG00000070392	TLR19	Zebrafish	ds	ss
-1	ENSDARG00000104045	TLR22	Zebrafish	ds	ss
-2	ENSGALG00000008166	TLR15	Chicken	ss	other
-3	ENSMODG00000028942	TLR13	Opossum	ss	ds
-4	ENSMPUG00000011236	TLR3	Ferret	ds	other
-5	ENSSSCG00000015801	TLR3	Pig	ds	other
-6	ENSXETG00000004577	TLR13	Frog	ss	ds
