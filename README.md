@@ -53,7 +53,7 @@ Here doc is the folder name that contains all the performance measure files.
 2. Run the <b>specificity_prediction.py</b> python script using the following command
    
 ```p
-$ python3 specificity_prediction.py <input_file>
+$ python3 Specificity_prediction.py data/<input_file>
 ```
 Here, input_file is “prediction_example.txt” which contains aforementioned feature values for novel and blind set TLRs. 
 
