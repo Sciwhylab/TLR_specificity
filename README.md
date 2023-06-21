@@ -19,7 +19,7 @@
 ```p
 $ python3 Training_model.py data/training_data.txt doc
 ```
-Here doc is the folder name that contains all the performance measure files.
+Here <i>doc</i> is the folder name that contains all the performance measure files.
 
 <p align="justify">The trained model also summarizes the important features of TLRs that could be critical for nucleic acid strand specificity prediction (brought up below).</p> 
 
@@ -44,7 +44,7 @@ Here doc is the folder name that contains all the performance measure files.
 
 #### Conditions
 
-<p align="justify">The predictor was developed in python version 3 and above. It is necessary to install the sklearn, joblib, matplotlib and seanorn libraries to run the predictor.</p> 
+The predictor was developed in python version 3 and above. It is necessary to install the [sklearn](https://scikit-learn.org/stable/install.html), [joblib](https://joblib.readthedocs.io/en/latest/installing.html), [matplotlib](https://matplotlib.org/stable/users/installing/index.html) and [seanorn](https://pypi.org/project/seaborn/) libraries to run the predictor.
 
 #### Steps
 
