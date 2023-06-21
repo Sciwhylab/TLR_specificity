@@ -1,3 +1,0 @@
-Gene_name	%GC	Gene length	Protein length	Age	Tau	Specific tissue	Average gene exp levels	Binding site percentage	Unique domain number	Domain numbers total	LRR domain numbers	LRR domain length total	Biosynthesis	Transport	Transporter activity	Development	Transcription	Translation	Defense response	Immune response	Cell division	Regulation of transcription	Core functions	Regulatory functions	%Disorder	%Exposed LRR	%Buried LRR
-aTLR9	43.83	3.79574102086924	3.03059972196595	544	1	7	0.006288073603163	7.2897	2	3	2	111	0	0	0	0	1	0	0	1	0	1	1	2	1.21155638397018	31.4149	33.0935
-aTLR18	48.18	3.45591024038274	2.96894968098134	645	0.548810503468758	0	1.18466188731694	9.4828	3	4	2	106	0	0	0	0	1	0	0	1	0	1	1	2	5.15574650912997	26.6436	34.2561
