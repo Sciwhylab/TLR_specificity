@@ -1,4 +1,0 @@
-	PPV/Precision	TPR/Sensitivity/Recall	TNR/Specificity	NPV	FPR	FNR	FDR	ACC	MCC
-dsNA-sensing TLRs	0.778	0.875	0.965	0.982	0.035	0.125	0.222	0.953	0.799
-Other TLRs	1.0	0.962	1.0	0.944	0.0	0.038	0.0	0.977	0.953
-ssNA-sensing TLRs	0.917	0.943	0.968	0.978	0.032	0.057	0.083	0.961	0.903
