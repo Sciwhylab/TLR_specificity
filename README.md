@@ -68,7 +68,7 @@ Here, input_file is “prediction_input.txt” which contains aforementioned fea
   <tr> <td> aTLR18 </td> <td> other </td> </tr>
   </table>
   
-<br><br>
+<br>
 
 </body>
 </html>
